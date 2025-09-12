@@ -13,5 +13,5 @@
 \
 \
 \
-#Languages I'm proficient in
+**<h3>#Languages I'm proficient in</h3>**
 Lorem ipsum factum
