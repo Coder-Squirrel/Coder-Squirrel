@@ -2,9 +2,9 @@
 <p>I'm a C# programmer and a Unity game developer based in Brazil!</p>
 
 **<h2>Project I've worked on</h2>**
-<li>:bomb: McExplosion (academic unity game project)</li>
-<li>:game_die: The Dice Tower (academic unity game project)</li>
-<li>:star: Paradoxy (academic unity game project)</li>
+* :bomb: McExplosion (academic unity game project)
+* :game_die: [The Dice Tower](https://drive.google.com/file/d/1T_CY_Yvc6zse3X6yvfUp-aYPoqnrpuj8/view?usp=sharing)
+* :star: Paradoxy (academic unity game project)
 
 **<h2>Some of the languages I'm proficient in</h2>**
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
