@@ -2,7 +2,7 @@
 <p>I'm a C# programmer and a Unity game developer based in Brazil!</p>
 
 **<h2>Project I've worked on</h2>**
-* :bomb: [Mc'Xplosion](https://drive.google.com/drive/folders/1j3zoV5jJeWd0vb3aMgJXel94e3J9HzBa?usp=sharing) (academic unity game project)
+* :bomb: [Mc'Xplosion](https://drive.google.com/drive/folders/1j3zoV5jJeWd0vb3aMgJXel94e3J9HzBa?usp=sharing) (academic unity game project, made alongside [spiritrawr!](https://github.com/spiritrawr) )
 * :game_die: [The Dice Tower](https://drive.google.com/file/d/1T_CY_Yvc6zse3X6yvfUp-aYPoqnrpuj8/view?usp=sharing) (academic unity game project)
 * :star: [Paradoxy](https://paradoxygroup.itch.io/paradoxy) (academic unity game project)
 
